@@ -1,0 +1,12 @@
+[
+  {
+    "name": "honda",
+    "price": 6000,
+    "type": "SEDAN"
+  },
+  {
+    "name": "honda akkord",
+    "price": 4000,
+    "type": "JEEP"
+  }
+]
